@@ -10,8 +10,8 @@ turns your WADs into a `game` folder and generates the C++ from the executable i
 ## Status (v0.1)
 
 - Started from the [mylifeking-recomp](https://github.com/darkuni/mylifeking-recomp) v0.4 tree (same engine,
-  same runtime). Linux headless: boot, save creation, title, new game, story intro, tower and throne room.
-  Windows exe built, not yet tested on Windows.
+  same runtime). Plays on Windows (tester-confirmed). Prebuilt Windows builds are on the
+  [Releases](https://github.com/darkuni/mylifedarklord-recomp/releases) page.
 - DLC: all 39 items of the add-on pack (`00010005-WF2E`) are installed as add-on content (`game/dlc`) and the
   game loads its packages. "Purchase Add-on Content" needs the Wii Shop and does not work.
 - Controls: the game is played with the Wii Remote held sideways (prompts show 1/2), so `controls = sideways`
