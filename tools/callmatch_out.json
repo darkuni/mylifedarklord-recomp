@@ -1,0 +1,18 @@
+{
+"801DBAD8": [
+"80162868",
+"WPADGetDataFormat"
+],
+"801DBA7C": [
+"80162800",
+"WPADSetExtensionCallback"
+],
+"801DA5CC": [
+"801613D8",
+"WPADStartSimpleSync"
+],
+"801DA5D0": [
+"801613DC",
+"WPADStopSimpleSync"
+]
+}

@@ -1,0 +1,23 @@
+{
+"801A9254": ["80130348", "SCGetAspectRatio"],
+"801DA5CC": ["801613D8", "WPADStartSimpleSync"],
+"801DA5D0": ["801613DC", "WPADStopSimpleSync"],
+"801DA5D4": ["801613E0", "WPADSetSimpleSyncCallback"],
+"801DA5D8": ["801613E4", "WPADRegisterAllocator"],
+"801DA5DC": ["801613E8", "WPADGetStatus"],
+"801DB820": ["801625E0", "WPADDisconnect"],
+"801DB96C": ["80162730", "WPADSetSamplingCallback"],
+"801DB9F4": ["80162798", "WPADSetConnectCallback"],
+"801DBA7C": ["80162800", "WPADSetExtensionCallback"],
+"801DBAD8": ["80162868", "WPADGetDataFormat"],
+"801DBB1C": ["801628B0", "WPADSetDataFormat"],
+"801DC210": ["80162FA0", "WPADRead"],
+"801DE104": ["80164FB8", "WPADIsDpdEnabled"],
+"801DE1D8": ["8016502C", "WPADControlDpd"],
+"801EE6E8": ["801746A8", "KPADRead"],
+"801EE6F4": ["00000000", "KPADiRead"],
+"801EEFFC": ["80174DD4", "KPADInit"],
+"801EF008": ["00000000", "KPADInitEx"],
+"801EF638": ["801750C8", "KPADDisableDPD"],
+"801EF654": ["801750E4", "KPADEnableDPD"]
+}
