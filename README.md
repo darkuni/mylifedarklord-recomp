@@ -14,6 +14,9 @@ turns your WADs into a `game` folder and generates the C++ from the executable i
   [Releases](https://github.com/darkuni/mylifedarklord-recomp/releases) page.
 - DLC: all 39 items of the add-on pack (`00010005-WF2E`) are installed as add-on content (`game/dlc`) and the
   game loads its packages. "Purchase Add-on Content" needs the Wii Shop and does not work.
+- v0.2: no Python or setup script - put your WAD(s) next to `mylifedarklord.exe` and run it; the first start
+  builds the `game` folder (and `game/dlc`). GitHub Actions builds every push; publishing a release attaches
+  `MyLifeAsADarklord-<version>-win64.zip`.
 - Controls: the game is played with the Wii Remote held sideways (prompts show 1/2), so `controls = sideways`
   is the default.
 
